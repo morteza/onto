@@ -1,4 +1,9 @@
-_site
+# Ignore all dotfiles...
+.*
+# except for .gitignore
+!.gitignore
+
+tmp
+test-result
 .DS_Store
-*.exe
-*.class
+_site
