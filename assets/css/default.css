@@ -285,6 +285,9 @@ a {
   text-decoration: none;
 }
 
+a small {
+    font-size: 10pt;
+}
 p a {
   font-weight: 400;
 }
@@ -338,7 +341,6 @@ span.date {
   font-size: 10pt;
   color: #aaa;
 }
-
 
 table.post-list {
   width: 100%;

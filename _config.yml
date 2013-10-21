@@ -2,3 +2,4 @@ name: "آنتو"
 description: "انباره‌ی مهندسی‌دانش، آنتولوژی و سیستم‌های خبره"
 markdown: redcarpet
 pygments: true
+permalink: /:categories/:year:month:day/:title
