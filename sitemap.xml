@@ -5,25 +5,25 @@ layout: nil
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://onto.ir/</loc>
-    <lastmod>{{ site.time | date_to_xmlschema}}</lastmod>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://onto.ir/blog/</loc>
-    <lastmod>{{ site.time | date_to_xmlschema}}</lastmod>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://onto.ir/pages/</loc>
-    <lastmod>{{ site.time | date_to_xmlschema}}</lastmod>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   {% for post in site.posts %}
   <url>
-    <loc>http://onto.ir/{{ post.url }}</loc>
+    <loc>http://onto.ir{{ post.url }}</loc>
     <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
