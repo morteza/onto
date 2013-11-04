@@ -2,6 +2,7 @@
 layout: default
 title: "بلاگ | آنتو (onto.ir)"
 full_posts: 5
+permalink: blog/
 ---
 
 {% for post in site.posts %}
