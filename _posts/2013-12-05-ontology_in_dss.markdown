@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "سیستم‌های تصمیم‌یارِ مبتنی بر آنتولوژی"
-date:   2013-12-0۵ 14:46:55
+date:   2013-12-05 14:46:55
 date_fa: "۵ دسامبر ۲۰۱۳"
 date_shamsi: "۱۱ آذر ۱۳۹۲"
 categories: intro blog
-permalink: /blog/intro/why_ontology
+permalink: /blog/intro/ontology_based_dss
 ---
 > 
 > مقاله‌ی حاضر، بازنویسی آزادی به زبان فارسی، از منابع [۱] و [۲] است.
