@@ -1,0 +1,20 @@
+{% for post in site.posts %}
+  {% if forloop.index < page.full_posts %}
+  <div class='post'>
+    <span class="date">{{ post.date_fa }}</span>
+    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    <div class="body">{{post.content}}</div>
+  </div>
+  <hr />
+  {% else %}
+    {% if forloop.index == page.full_posts %}
+    <h2>پست‌های قدیمی‌تر</h2>
+    <table class='post-list'>
+    {% endif %}
+    <tr>
+      <td nowrap><a href='{{ post.url }}'>{{ post.title }}</a></th>
+      <td><span class='date'>{{ post.date_fa }}</span></td>
+    </tr>
+  {% endif %}
+{% endfor %}
+</table>

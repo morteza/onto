@@ -342,6 +342,14 @@ span.date {
   color: #aaa;
 }
 
+small {
+  font-size: 10pt;
+}
+
+.muted {
+  color: #aaa;
+}
+
 table.post-list {
   width: 100%;
   border: 0px;

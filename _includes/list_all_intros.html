@@ -1,0 +1,10 @@
+<table class='post-list'>
+{% for post in site.posts %}
+  {% if post.categories contains 'intro' %}
+    <tr>
+      <td><a href='{{ post.url }}'>{{ post.title }}</a></td>
+      <td><span class='date'>{{ post.date_fa }}</span></td>
+    </tr>
+  {% endif %}
+{% endfor %}
+</table>
