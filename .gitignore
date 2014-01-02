@@ -7,3 +7,4 @@ tmp
 test-result
 .DS_Store
 _site
+Gemfile.lock
