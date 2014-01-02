@@ -5,3 +5,4 @@ pygments: true
 safe: true
 lsi: false
 permalink: /:categories/:year:month:day/:title
+encoding: UTF-8
