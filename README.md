@@ -1,4 +1,4 @@
-## Onto Static Contents ![Creative Commons License](http://i.creativecommons.org/l/by-sa/4.0/80x15.png) ![Tending Badge](https://d2weczhvl823v0.cloudfront.net/morteza/onto_website/trend.png)
+## Onto Static Contents ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/morteza/onto_website/trend.png)
 
 Static contents for the *Onto* ([onto.ir](http://onto.ir)) knowledge base.
 
