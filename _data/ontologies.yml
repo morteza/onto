@@ -1,0 +1,7 @@
+- name: FOAF
+  uri: http://xmlns.com/foaf/0.1/#
+  homepage: http://www.foaf-project.org
+  file: http://xmlns.com/foaf/spec/index.rdf
+  format: "OWL/RDF"
+  spec: http://xmlns.com/foaf/spec/
+  excerpt: "برای توصیف آدم‌ها، انواع روابط بین آن‌ها و کارهایی که می‌کنند و چیزایی که می‌سازند."

@@ -1,8 +1,37 @@
-<table class='post-list'>
-{% for post in site.posts %}
+{% for ontology in site.data.ontologies %}
+  <table class='post-list'>
   <tr>
-    <td><a href='{{ post.url }}'>{{ post.title }}</a></td>
-    <td><span class='date'>{{ post.date_fa }}</span></td>
+    <td style="width:1%; margin: 5px;"><strong>عنوان:</strong></td>
+    <td style="border-right:0px;padding-right:5px;direction:ltr">
+      <a href='{{ ontology.homepage }}'>(<code>{{ ontology.uri }}</code>) {{ ontology.name }}</a>
+    </td>
   </tr>
+  <tr>
+    <td style="width:1%; margin: 5px;"><strong>مستندات:</strong></td>
+    <td style="border-right:0px;padding-right:5px;direction:ltr">
+      <a href='{{ ontology.spec }}'>{{ ontology.spec }}</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:1%; margin: 5px;"><strong>فرمت:</strong></td>
+    <td style="border-right:0px;padding-right:5px;direction:ltr">
+      {{ ontology.format }}
+    </td>
+  </tr>
+  <tr>
+    <td style="width:1%; margin: 5px;"><strong>لینک:</strong></td>
+    <td style="border-right:0px;padding-right:5px;direction:ltr">
+      <a href='{{ ontology.file }}'>{{ ontology.file }}</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:1%;padding-left:5px;"><strong>توضیح: </strong></td>
+    <td style="border-right:solid 1px white;padding-right:5px;">
+      <small class="small">{{ ontology.excerpt }}</small>
+      <br />
+      <small><a href="{{ ontology.homepage }}" class="small">اطلاعات بیشتر...</a></small>
+    </td>
+  </tr>
+  </table>
+  <hr />
 {% endfor %}
-</table>
