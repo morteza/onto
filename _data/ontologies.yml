@@ -5,3 +5,15 @@
   format: "OWL/RDF"
   spec: http://xmlns.com/foaf/spec/
   excerpt: "برای توصیف آدم‌ها، انواع روابط بین آن‌ها و کارهایی که می‌کنند و چیزایی که می‌سازند."
+
+
+- name: DOAP
+  uri: http://usefulinc.com/ns/doap#
+  homepage: https://github.com/edumbill/doap/wiki
+  file: https://github.com/edumbill/doap/raw/master/schema/doap.rdf
+  format: "XML/RDF"
+  spec: https://github.com/edumbill/doap/wiki
+  excerpt: "این آنتواوژی شامل مجموعه واژگانی مشترک برای توصیف پروژه‌های نرم‌افزاری، به خصوص پروژه‌های منبع‌باز است."
+
+- name: SKOS
+  uri:
