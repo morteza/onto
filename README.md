@@ -1,9 +1,12 @@
-## Onto Static Contents ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/morteza/onto_website/trend.png)
+## [Onto](http://nto.ir) Static Contents
 
-Static contents for the *Onto* ([onto.ir](http://onto.ir)) knowledge base.
+Content repository for *Onto* ([onto.ir](http://onto.ir)) knowledge base.
 
 ### What is *Onto*?
 [onto.ir](http://onto.ir) (henceforth ***Onto***) promotes content theories of artificial intelligence including, but not limited to ontologies, knowledge engineering, expert systems, and new theories on how cognition really works. It's in farsi, and its target audiences are non-technical decision makers, technical researchers, geeks, and academics who are capable of understanding persian.
+
+### Semantic Resource Locators
+The `http://onto.ir/ontologies/${year}/{month}/${name}#` pattern is used as prefix, uniquely, for all URIs and IRIs.
 
 ### License and Copyright
 
