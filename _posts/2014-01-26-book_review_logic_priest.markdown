@@ -2,7 +2,7 @@
 layout: post
 title:  "کتاب: مقدمه‌ای بسیار کوتاه بر منطق"
 date:   2014-01-26 20:44:49
-date_fa: "۲۵ ژانتویه ۲۰۱۴"
+date_fa: "۲۵ ژانویه ۲۰۱۴"
 date_shamsi: "۶ بهمن ۱۳۹۲"
 categories: review blog
 permalink: /blog/review/book_priest_logic
