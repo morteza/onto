@@ -16,4 +16,14 @@
   excerpt: "این آنتواوژی شامل مجموعه واژگانی مشترک برای توصیف پروژه‌های نرم‌افزاری، به خصوص پروژه‌های منبع‌باز است."
 
 - name: SKOS
-  uri:
+
+- name: ASN
+  uri: http://purl.org/ASN/schema/core/#
+  file: http://purl.org/ASN/schema/core/
+
+- name: DC
+
+- name: OWL
+  uri: http://www.w3.org/2002/07/owl#
+  file: http://www.w3.org/2002/07/owl
+  

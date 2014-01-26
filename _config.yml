@@ -1,6 +1,6 @@
 name: "آنتو"
 description: "مهندسی‌دانش، آنتولوژی و سیستم‌های خبره"
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 safe: true
 lsi: false
