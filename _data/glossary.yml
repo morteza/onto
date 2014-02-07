@@ -1,0 +1,5 @@
+- uri: owl#Ontology
+  label: "Ontology"
+  label_fa: "آنتولوژی"
+  description: "یک مجموعه خصوصیات صریح، رسمی‌تر از زبان طبیعی انسان، برای توصیفِ ادراکِ یک چیز (و شناخت آن برای انسان و ماشین) است. برخلاف فلسفه، در مهندسی دانش و هوش‌مصنوعی کلمه‌ی آنتولوژی را با o کوچک هم در زبان انگلیسی می‌توان نوشت."
+  more_info: http://en.wikipedia.org/wiki/Ontology_(information_science)
