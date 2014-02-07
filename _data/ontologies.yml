@@ -16,6 +16,12 @@
   excerpt: "این آنتواوژی شامل مجموعه واژگانی مشترک برای توصیف پروژه‌های نرم‌افزاری، به خصوص پروژه‌های منبع‌باز است."
 
 - name: SKOS
+  uri: http://www.w3.org/2004/02/skos/core#
+  homepage: http://www.w3.org/TR/skos-primer
+  spec: http://www.w3.org/TR/skos-reference/
+  file: http://www.w3.org/TR/skos-reference/skos.rdf
+  format: "XML/RDF"
+  excerpt: "یک مدلِ داده‌ای برای به‌اشتراک‌گذاری و ارتباط سیستم‌های سامان‌دهی دانش از طریق وب."
 
 - name: ASN
   uri: http://purl.org/ASN/schema/core/#
