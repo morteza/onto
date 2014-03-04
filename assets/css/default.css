@@ -382,7 +382,10 @@ table.post-list td {
 }
 
 .alert {
-  padding:10px; margin: 0px 50px; background: rgba(255,255,255,0.4);border-radius: 5px;
+  padding:10px;
+  margin: 0px 50px;
+  background: rgba(255,255,255,0.4);
+  border-radius: 5px;
 }
 
 .clearfix {display: inline-block;}
