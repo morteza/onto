@@ -28,8 +28,14 @@ permalink: /blog/review/project_bayesowl
 برخی از منابع آکادمیک قابل دسترس، هرچند قدیمی ولی قابل تاملِ این پروژه شامل موارد زیر می‌شود:
 
 
-- [Ding, Z., Peng, Y. et al. **"A Bayesian Approach to Uncertainty Modeling in OWL Ontology"**, Proceedings of the International Conference on Advances in Intelligent Systems Theory and Applications, November 2004, Luxembourg.](http://www.csee.umbc.edu/~ypeng/BayesOWL/papers/ICAISTA04.pdf)
+<div style="direction:ltr"><small><span class="muted">[۱]</span> Ding, Z., Peng, Y. et al. <i><strong>"A Bayesian Approach to Uncertainty Modeling in OWL Ontology"</strong></i>, Proceedings of the International Conference on Advances in Intelligent Systems Theory and Applications, 2004. <a class="small" href="http://www.csee.umbc.edu/~ypeng/BayesOWL/papers/ICAISTA04.pdf">دانلود</a></small>
 
-- [Peng, Y. and Ding, Z.: **"Modifying Bayesian Networks by Probability Constraints"**, in Proceedings of 21st Conference on Uncertainty in Artificial Intelligence (UAI-2005), Edinburgh, Scotland, July 26-29, 2005.](http://www.csee.umbc.edu/~ypeng/BayesOWL/papers/UAI05.pdf)
+<br />
+<small><span class="muted">[۲]</span> Peng, Y. and Ding, Z. <i><strong>"Modifying Bayesian Networks by Probability Constraints"</strong></i>, in Proceedings of 21st Conference on Uncertainty in Artificial Intelligence (UAI-2005), Edinburgh, Scotland, July 26-29, 2005. <a class="small" href="http://www.csee.umbc.edu/~ypeng/BayesOWL/papers/UAI05.pdf">دانلود</a></small>
 
-- [Ding, Z., **BayesOWL: Uncertainty Modeling in Semantic Web Ontologies**, PhD thesis, 2005.](http://www.csee.umbc.edu/~ypeng/BayesOWL/papers/Ding_Thesis.pdf)
+<br/>
+<small><span class="muted">[۳]</span> Ding, Z. <i><strong>"BayesOWL: Uncertainty Modeling in Semantic Web Ontologies"</strong></i>, PhD thesis, 2005. <a class="small" href="http://www.csee.umbc.edu/~ypeng/BayesOWL/papers/Ding_Thesis.pdf">دانلود</a></small>
+
+<br />
+<small><div class="muted" style="text-align:right;">[۴]</div> <a class="small" href="http://www.csee.umbc.edu/~ypeng/BayesOWL/index.html">وب‌سایت پروژه BayesOWL.</a> آخرین بازدید در ۱۰ مارچ ۲۰۱۴.</small></div>
+
