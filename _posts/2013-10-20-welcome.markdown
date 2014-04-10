@@ -4,7 +4,7 @@ title:  "به آنتو خوش آمدید!"
 date:   2013-10-20 18:24:52
 date_fa: "۲۰ اکتبر ۲۰۱۳"
 date_shamsi: "۲۸ مهر ۱۳۹۲"
-categories: blog intro
+categories: blog
 permalink: /blog/welcome
 ---
 
