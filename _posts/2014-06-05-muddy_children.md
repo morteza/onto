@@ -5,7 +5,7 @@ date:   2014-06-05 12:34:03
 date_fa: "۶ ژوئن ۲۰۱۴"
 date_shamsi: "۱۵ خرداد ۱۳۹۳"
 categories: blog intro review
-permalink: /blog/intro/owl_profiles
+permalink: /blog/intro/muddy_children
 ---
 
 
