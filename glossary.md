@@ -9,7 +9,7 @@ permalink: glossary/
 {% for concept in site.data.glossary %}
   <table class='post-list'>
   <tr>
-	<td style="width:1%; margin: 5px;"><strong>{{ concept.label_fa }}</strong> ({{ concept.label}})</td>
+	<td style="width:1%; margin: 5px;"><strong>{{ concept.label_fa }}</strong> ({{ concept.label }})</td>
   </tr>
   <tr>
 	<td style="border-right:solid 1px white;padding-right:5px;">
@@ -25,5 +25,5 @@ permalink: glossary/
 {% endfor %}
 
 <small class="muted">
-برای سازماندهی‌ این فرهنگِ واژگان از آنتولوژی SKOS استفاده شده است. برای دسترسی به آنتولوژیِ این فرهنگ لغات با پشتیبانی آنتو تماس بگیرید.
+برای سازماندهی‌ این فرهنگِ واژگان از آنتولوژی SKOS استفاده شده است. برای دسترسی به آنتولوژیِ این فرهنگ لغات با آنتو تماس بگیرید.
 </small>
