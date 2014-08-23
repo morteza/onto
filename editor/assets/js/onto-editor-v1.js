@@ -3,7 +3,7 @@ var width = 960,
 
 var bgcolor = d3.scale.category20();
 
-// mouse event vars
+// mouse event vars to keep track selected link and node
 var selected_node = null,
     selected_link = null,
     mousedown_link = null,
@@ -122,6 +122,7 @@ function tick() {
 
   node.attr("cx", function(d) { return d.x; })
       .attr("cy", function(d) { return d.y; });
+
 }
 
 // rescale g
@@ -157,7 +158,7 @@ function redraw() {
 
   node = node.data(nodes);
 
-  node.enter().insert("circle")
+  c = node.enter().insert("circle")
       .attr("class", "node")
       .attr("r", 5)
       .on("mousedown", 
@@ -215,7 +216,7 @@ function redraw() {
   node
     .classed("node_selected", function(d) { return d === selected_node; });
 
-  
+
 
   if (d3.event) {
     // prevent browser's default behavior
