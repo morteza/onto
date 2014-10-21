@@ -1,7 +1,7 @@
 name: "آنتو"
 description: "مهندسی‌دانش، آنتولوژی و سیستم‌های خبره"
 markdown: kramdown
-pygments: true
+highlighert: pygments
 safe: true
 lsi: false
 permalink: /:categories/:year:month:day/:title
