@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "راهنمای ساخت آنتولوژی OWL با Protégé نسخه ۴"
-date:   2014-0-08 12:34:03
+date:   2014-08-06 12:34:03
 date_fa: "۶ آگوست ۲۰۱۴"
 date_shamsi: "۱۵ مرداد ۱۳۹۳"
 categories: intro tutorial
